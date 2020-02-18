@@ -1,0 +1,19 @@
+串接技術文件	連結	API串接技術文件 https://pay.line.me/jp/developers/apis/apis?locale=zh_TW
+Sandbox使用說明	連結	Sandbox使用環境說明 https://pay.line.me/jp/developers/techsupport/sandbox/testflow?locale=zh_TW
+Merchant Center	連結	測試交易狀態確認 https://pay.line.me/jp/center/notice/list?locale=zh_TW
+
+	Line Pay 登入	https://pay.line.me/login/
+
+	Line Pay 登入	ID:test_202002107495@line.pay
+
+	Line Pay 登入	PW:test_202002107495
+
+			Channel ID:1653839411
+
+			Channel Secret Key:06da2a5ff63c556f2483fd91e1526bbc
+
+如果您需要管理您自己伺服器的ACL(Access Control List),請註冊以下的LINE Pay server IP:
+211.249.40.1~211.249.40.30
+
+https://pay.line.me/login/
+
